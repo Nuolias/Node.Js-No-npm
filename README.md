@@ -6,3 +6,7 @@ Package Used:
 -> http
 -> request
 -> util
+
+Output:
+http://localhost:8080/getTimeStories
+screenshot attached
